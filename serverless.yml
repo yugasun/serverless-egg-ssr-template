@@ -1,0 +1,20 @@
+EggReactSSR:
+  component: '@serverless/tencent-egg'
+  inputs:
+    region: ap-guangzhou
+    functionName: egg-ssr
+    code: ./
+    functionConf:
+      timeout: 10
+      memorySize: 128
+      environment:
+        variables:
+          TEST: vale
+      vpcConfig:
+        subnetId: ''
+        vpcId: ''
+    apigatewayConf:
+      # 由于 axios 默认是http，所以 http 必须配置
+      protocols:
+        - http
+      environment: release
