@@ -30,7 +30,7 @@ export default class Header extends Component {
                 <a href="/intro">QuickStart</a>
               </li>
               <li>
-                <a target="_blank" href="https://github.com/yugasun/serveless-egg-ssr-boilerplate">GitHub</a>
+                <a target="_blank" href="https://github.com/yugasun/serverless-egg-ssr-template">GitHub</a>
               </li>
             </ul>
           </div>

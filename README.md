@@ -1,4 +1,4 @@
-# serveless-egg-ssr-boilerplate
+# serverless-egg-ssr-template
 
 基于 Serverless + Egg + React + Webpack 服务端渲染 SSR (Server Side Render) 工程
 骨架项目。**项目克隆自 [egg-react-webpack-boilerplate](https://github.com/easy-team/egg-react-webpack-boilerplate)，并针对 `serverless` 架构做了适配处理。**

@@ -1,5 +1,5 @@
 {
-  "name": "serveless-egg-ssr-boilerplate",
+  "name": "serverless-egg-ssr-template",
   "version": "4.2.1",
   "description": "基于 easywebpack-react 和 egg-view-react-ssr 插件服务端渲染工程骨架项目",
   "scripts": {
@@ -65,9 +65,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yugasun/serveless-egg-ssr-boilerplate.git"
+    "url": "git+https://github.com/yugasun/serverless-egg-ssr-template.git"
   },
   "author": "hubcarl@126.com",
   "license": "MIT",
-  "homepage": "https://github.com/yugasun/serveless-egg-ssr-boilerplate"
+  "homepage": "https://github.com/yugasun/serverless-egg-ssr-template"
 }
