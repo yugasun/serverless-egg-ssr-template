@@ -13,9 +13,8 @@ export default class Intro extends Component {
       <h2 className="easy-intro-title">{this.props.message}</h2>
       <div className="easy-intro-info">
         <h3>1.Egg React 工程方案</h3>
-        <p>Egg + React 工程化解决方案, 支持 Egg + React 服务端(Server Side Render) 和 前端渲染模式(Client Side Render ).</p>
-        <p>GitHub: <a target="_blank" href="https://github.com/easy-team/egg-react-webpack-boilerplate">https://github.com/easy-team/egg-react-webpack-boilerplate</a></p>
-        <p>Document:<a target="_blank" href="https://www.yuque.com/easy-team/egg-react">https://www.yuque.com/easy-team/egg-react</a></p>
+        <p>Egg + React 工程化解决方案, 支持 Egg + React 服务端(Server Side Render).</p>
+        <p>GitHub: <a target="_blank" href="https://github.com/yugasun/serveless-egg-ssr-boilerplate">https://github.com/yugasun/serveless-egg-ssr-boilerplate</a></p>
       </div>
       <div className="easy-intro-info">
         <h3>2.Webpack entry 配置说明</h3>
