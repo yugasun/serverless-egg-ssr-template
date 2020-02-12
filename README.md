@@ -3,7 +3,7 @@
 基于 Serverless + Egg + React + Webpack 服务端渲染 SSR (Server Side Render) 工程
 骨架项目。**项目克隆自 [egg-react-webpack-boilerplate](https://github.com/easy-team/egg-react-webpack-boilerplate)，并针对 `serverless` 架构做了适配处理。**
 
-- 线上访问: http://49.233.172.37:7001
+- 线上访问: http://service-iriwevoq-1251556596.gz.apigw.tencentcs.com/
 - 文档请见:
   [Egg + React 工程解决方案](https://www.yuque.com/easy-team/egg-react)
 
